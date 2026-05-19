@@ -57,18 +57,3 @@
 </body>
 </html># soweto-bites-marketplace
 
-
-.features{
-  display:flex;
-  justify-content:center;
-  gap:20px;
-  flex-wrap:wrap;
-  padding:60px 20px;
-}
-
-.card{
-  background:#1e293b;
-  padding:30px;
-  border-radius:15px;
-  width:300px;
-}
