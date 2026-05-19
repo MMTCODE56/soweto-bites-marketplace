@@ -56,62 +56,7 @@
 
 </body>
 </html># soweto-bites-marketplace
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
-  font-family:Arial;
-}
 
-body{
-  background:#0f172a;
-  color:white;
-}
-
-header{
-  background:#111827;
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  padding:20px;
-}
-
-nav a{
-  color:white;
-  text-decoration:none;
-  margin-left:20px;
-}
-
-.hero{
-  height:80vh;
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
-  align-items:center;
-  text-align:center;
-  padding:20px;
-}
-
-.hero h2{
-  font-size:3rem;
-  margin-bottom:20px;
-}
-
-.hero p{
-  max-width:700px;
-  line-height:1.7;
-  margin-bottom:30px;
-}
-
-button{
-  background:#22c55e;
-  border:none;
-  padding:15px 30px;
-  border-radius:10px;
-  color:white;
-  font-size:1rem;
-  cursor:pointer;
-}
 
 .features{
   display:flex;
